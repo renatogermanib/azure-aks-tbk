@@ -1,0 +1,2 @@
+# Ignore local Terraform state files
+*.tfstate.backup
